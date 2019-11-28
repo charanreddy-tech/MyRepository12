@@ -14,7 +14,7 @@ public class Repo_Class
 	
 	public static WebDriver driver;
 	
-	public static void HDFC_Application() 
+	public static void HDFC_Application1() 
 	{
 		System.setProperty("webdriver.gecko.driver","Browsers\\geckodriver.exe");
 		driver=new FirefoxDriver();

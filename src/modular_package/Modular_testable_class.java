@@ -7,7 +7,7 @@ public class Modular_testable_class
   @Test(priority=0)
   public void Application()
   {
-	  Repo_Class.HDFC_Application();
+	  Repo_Class.HDFC_Application1();
 	  Repo_Class.CaptureScreenShot("HDFC");
   }
   
