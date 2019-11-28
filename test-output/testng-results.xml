@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19156" started-at="2019-11-26T06:18:08 IST" finished-at="2019-11-26T06:18:28 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19156" started-at="2019-11-26T06:18:08 IST" finished-at="2019-11-26T06:18:28 IST">
+      <class name="modular_package.Modular_testable_class">
+        <test-method status="PASS" signature="Application()[pri:0, instance:modular_package.Modular_testable_class@6e0e048a]" name="Application" duration-ms="16245" started-at="2019-11-26T06:18:09 IST" finished-at="2019-11-26T06:18:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Application -->
+        <test-method status="PASS" signature="HDFC_cards()[pri:1, instance:modular_package.Modular_testable_class@6e0e048a]" name="HDFC_cards" duration-ms="2785" started-at="2019-11-26T06:18:25 IST" finished-at="2019-11-26T06:18:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HDFC_cards -->
+      </class> <!-- modular_package.Modular_testable_class -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="parameter_suite">
+
+<test name="parameter_name">
+
+<parameter name="Browser" value="http://www.facebook.com"/>
+<parameter name="FB_username_id" value="email"/>
+<parameter name="FB_password_id" value="pass"/>
+<parameter name="FB_username" value="charan"/>
+<parameter name="FB_password" value="charan@123"/>
+
+<classes>
+
+    <class name="parameter_package.Parameter_Class"/>
+
+</classes>
+
+
+</test>
+
+</suite>

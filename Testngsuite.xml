@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testng_suite">
+
+<test name="testng_test">
+
+<classes>
+
+   <class name="testng_package.FB_Testng_Class"/>
+   <class name="testng_package.Sample_Testng_Class"/>
+   <class name="testng_package.Test_testng_class"/>
+   <class name="testng_package.Test_testng"/>
+
+</classes>
+
+
+</test>
+
+
+</suite>
